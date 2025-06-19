@@ -1,0 +1,1 @@
+g++ main.cpp -x c sqlite3.c -I. -o sqlite_test
